@@ -1,5 +1,5 @@
 Book.create!([
-  {title: "Eragon", author: "Christopher Paolini", price: "9.99", published_date: "2022-08-30"}
+  {title: "Brisingr", author: "Christopher Paolini", price: "9.99", published_date: "2022-08-30"}
 ])
 User.create!([
   {username: "josh"}
